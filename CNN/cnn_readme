@@ -1,1 +1,6 @@
 In this we have implemented proper cnn with batch normalization,pooling,stride,padding,dataloader 
+
+* if you are having slow running on your device try the subset datasets that have been commented out 
+
+
+=> Thanks For Reading Me Throughout ! Kudos To You
