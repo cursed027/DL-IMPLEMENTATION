@@ -1,0 +1,1 @@
+in this i have implemented sentiment analysis on TWEETS set , in this i have used prebuilt tokenizer 'bert base uncased' and also pretrained model of bert i took its embedding layer as embedding for my model , i also implemented early stopping,dropouts for further enhancements 
